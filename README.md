@@ -1,5 +1,5 @@
-# Use-CNN-for-objection-recognition
-Use CNN for objection recognition, this is the final project of Computer Vision course
+# Use-CNN-for-object-recognition
+Use CNN for object recognition, this is the final project of Computer Vision course
 1.	Introduction
 Task: 		By using image processing approach combining with Principal Component Analysis and Convolutional Neural Network, we can train a model to recognize objects shown in images.
 Environment: 	Python 3.6
